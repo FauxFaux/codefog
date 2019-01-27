@@ -1,0 +1,10 @@
+{
+  "name": "codefog",
+  "devDependencies": {
+    "@types/jquery": "^3.3.22",
+    "jquery": "^3.3.1",
+    "jsonapi-typescript": "0.0.9",
+    "tslint": "^5.12.0",
+    "typescript": "^3.2.2"
+  }
+}
